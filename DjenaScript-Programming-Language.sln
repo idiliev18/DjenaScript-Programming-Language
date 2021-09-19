@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31710.8
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DjenaScript-Programming-Language", "DjenaScript-Programming-Language\DjenaScript-Programming-Language.vcxproj", "{F919645D-1ACD-4571-A6B4-9AD82D9EC71A}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DjenaScript-Parser", "DjenaScript-Parser\DjenaScript-Parser.vcxproj", "{3C9D8EFB-9298-41C8-9BA3-693D0710275D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F919645D-1ACD-4571-A6B4-9AD82D9EC71A}.Debug|x64.ActiveCfg = Debug|x64
-		{F919645D-1ACD-4571-A6B4-9AD82D9EC71A}.Debug|x64.Build.0 = Debug|x64
-		{F919645D-1ACD-4571-A6B4-9AD82D9EC71A}.Debug|x86.ActiveCfg = Debug|Win32
-		{F919645D-1ACD-4571-A6B4-9AD82D9EC71A}.Debug|x86.Build.0 = Debug|Win32
-		{F919645D-1ACD-4571-A6B4-9AD82D9EC71A}.Release|x64.ActiveCfg = Release|x64
-		{F919645D-1ACD-4571-A6B4-9AD82D9EC71A}.Release|x64.Build.0 = Release|x64
-		{F919645D-1ACD-4571-A6B4-9AD82D9EC71A}.Release|x86.ActiveCfg = Release|Win32
-		{F919645D-1ACD-4571-A6B4-9AD82D9EC71A}.Release|x86.Build.0 = Release|Win32
+		{3C9D8EFB-9298-41C8-9BA3-693D0710275D}.Debug|x64.ActiveCfg = Debug|x64
+		{3C9D8EFB-9298-41C8-9BA3-693D0710275D}.Debug|x64.Build.0 = Debug|x64
+		{3C9D8EFB-9298-41C8-9BA3-693D0710275D}.Debug|x86.ActiveCfg = Debug|Win32
+		{3C9D8EFB-9298-41C8-9BA3-693D0710275D}.Debug|x86.Build.0 = Debug|Win32
+		{3C9D8EFB-9298-41C8-9BA3-693D0710275D}.Release|x64.ActiveCfg = Release|x64
+		{3C9D8EFB-9298-41C8-9BA3-693D0710275D}.Release|x64.Build.0 = Release|x64
+		{3C9D8EFB-9298-41C8-9BA3-693D0710275D}.Release|x86.ActiveCfg = Release|Win32
+		{3C9D8EFB-9298-41C8-9BA3-693D0710275D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
